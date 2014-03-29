@@ -1,0 +1,117 @@
+.site-nav #freddie img.maxphoto {
+  width: 70px;
+  border-radius: 50%;
+  border: 2px solid #595959;
+}
+
+.hotel {
+  margin-bottom: 56px;
+}
+
+
+
+.bridal-party .headshot {
+  border-radius: 50px;
+  height: 75px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 12px;
+  border: 2px solid white;
+}
+
+.bridal-party dl dt {
+  
+}
+
+.fwl {
+  font-weight: 400;
+}
+
+.bridal-party h2,
+.bridal-party h3,
+.bridal-party p {
+  color: white;
+}
+
+.bridal-party h3 {
+  margin: 4px 0;
+  font-size: 34px;
+}
+
+.bridal-party h3 .wedding-title {
+  font-size: 24px;
+}
+
+.wedding-party-bride-side,
+.wedding-party-groom-side {
+  padding-bottom: 60px;
+}
+
+.bridal-party .wedding-party-bio {
+  margin-bottom: 60px;
+}
+
+.family .content.normalize h1,
+.family .content.normalize h2,
+.family .content.normalize h3,
+.family .content.normalize h4,
+.family .content.normalize p {
+  color: white;
+}
+
+.family .content.normalize p {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.wedding-registry .content.normalize h1,
+.wedding-registry .content.normalize h2,
+.wedding-registry .content.normalize h3,
+.wedding-registry .content.normalize h4,
+.wedding-registry .content.normalize p,
+.wedding-registry .content.normalize a {
+  color: white;
+}
+
+.williams-sonoma-logo {
+  background-color: white;
+  padding: 30px;
+  width: 300px;
+}
+
+.bbb-logo {
+  background-color: white;
+  padding: 30px;
+  padding-left: 40px;
+}
+
+.registry-store {
+  margin-bottom: 50px;
+}
+
+.parents-wedding-pic {
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+.section#section-social .bg-image {
+  background-image: url('./photos/kb-p-background-photo.jpg');
+}
+
+#section-support .content h2 {
+  font-weight: 300;
+  font-size: 30px;
+}
+
+#section-support .content h3 {
+  font-size: 30px;
+}
+
+#section-support .content p {
+  font-size: 18px;
+}
+
+.location {
+  margin-bottom: 48px;
+}
